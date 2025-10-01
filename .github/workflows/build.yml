@@ -7,7 +7,7 @@ on:
 env:
   PACT_BROKER_BASE_URL: https://nicksdemoorg.pactflow.io
   PACT_PROVIDER: pactflow-example-provider
-  PACT_BROKER_TOKEN: xFomlbUWPCgVQgNkBBOorA
+  PACT_BROKER_TOKEN: wRRUmkd3MsTq3ECkfcD46Q
   REACT_APP_API_BASE_URL: http://localhost:3001
   GIT_COMMIT: ${{ github.sha }}
   GIT_REF: ${{ github.ref }}
